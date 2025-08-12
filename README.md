@@ -1,5 +1,11 @@
 # Model Context Protocol (MCP) Server on GCP
 
+> ### Unlock AI-Driven Insights with DataPulse on Google Cloud Platform
+> [![Live Demo](https://img.shields.io/badge/Live-Demo-3f51b5?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://your-live-demo-link.com/)
+> [![GitHub Follow](https://img.shields.io/github/followers/Kuldipgodase07?label=Follow&style=social)](https://github.com/Kuldipgodase07)
+> [![LinkedIn Connect](https://img.shields.io/badge/-Connect%20on%20LinkedIn-1976d2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kuldip-godase-b2ba40297/)
+> [![Kuldip Godase](https://img.shields.io/badge/-Kuldip%20Godase-f44336?style=flat-square)](https://www.linkedin.com/in/kuldip-godase-b2ba40297/)
+
 A FastAPI-based MCP server that enables AI agents to perform real-time data analytics on Google Cloud Platform, integrating with Vertex AI and BigQuery.
 
 
