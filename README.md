@@ -7,11 +7,13 @@ A FastAPI-based MCP server that enables AI agents to perform real-time data anal
 ![Project Architecture](https://github.com/Kuldipgodase07/DataPulse/blob/main/GCP%20Diagram)
 
 
-## Features
+## Key Features
 
-- Query cloud-stored datasets in real-time via BigQuery
-- Invoke ML models deployed on Vertex AI
-- RESTful API endpoints for easy integration with AI agents
+- **Unified Query & Inference API:** One server, two superpowers — run SQL analytics on BigQuery or get instant predictions from Vertex AI models.
+- **Blazing Fast:** Asynchronous FastAPI backend for high-performance, low-latency requests.
+- **Cloud-Native Integration:** Native support for Google Cloud authentication and resource management.
+- **Developer Friendly:** Clean, well-documented REST endpoints, ready for integration with any modern tech stack.
+- **Secure by Design:** Leverages GCP IAM for secure data access and model invocation.
 
 ## Project Structure
 
