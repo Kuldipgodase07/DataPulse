@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Model Context Protocol (MCP) Server on GCP
 
 A FastAPI-based MCP server that enables AI agents to perform real-time data analytics on Google Cloud Platform, integrating with Vertex AI and BigQuery.
