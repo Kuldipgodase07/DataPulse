@@ -4,6 +4,7 @@ A FastAPI-based MCP server that enables AI agents to perform real-time data anal
 
 ---
 
+## Architecture Diagram
 ![Project Architecture](https://github.com/Kuldipgodase07/DataPulse/blob/main/GCP%20Diagram)
 
 ---
