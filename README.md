@@ -2,12 +2,10 @@
 
 A FastAPI-based MCP server that enables AI agents to perform real-time data analytics on Google Cloud Platform, integrating with Vertex AI and BigQuery.
 
----
 
 ## Architecture Diagram
 ![Project Architecture](https://github.com/Kuldipgodase07/DataPulse/blob/main/GCP%20Diagram)
 
----
 
 ## Features
 
